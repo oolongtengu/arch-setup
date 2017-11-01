@@ -24,7 +24,6 @@ gvfs
 htop
 i3-wm
 i3lock
-i3session-git
 i3status
 leiningen
 lightdm
