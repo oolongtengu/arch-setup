@@ -41,8 +41,8 @@ parcellite
 playerctl
 pulseaudio
 python-gobject
-python-neovim
 python-xdg
+python-neovim
 python2-neovim
 qt4
 redshift
