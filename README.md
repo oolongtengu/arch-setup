@@ -21,9 +21,10 @@ make
 To perform a system wide update you can execute `yolo` from within a [fish][] shell. This includes system, npm, emacs and vim packages as well as system maintenance. I run this every day, nothing has broken yet, maybe I'm lucky, or maybe all those naysayers were basing their opinions of Linux on hearsay and gossip. How odd. It's certainly more stable than OSX or Windows, that's for sure.
 
 ## Author
-
+Forked from and heavily influenced by
 [Oliver Caldwell][site] / [@OliverCaldwell][twitter]
 
+Tweaking to my needs and workflows.
 ## Unlicenced
 
 Find the full [unlicense][] in the `UNLICENSE` file, but here's a snippet.
